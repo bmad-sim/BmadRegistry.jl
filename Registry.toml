@@ -3,3 +3,4 @@ uuid = "70be63cb-3cab-46f8-a55e-60b91c1fe7ca"
 repo = "https://github.com/bmad-sim/BmadRegistry.jl"
 
 [packages]
+5c0d271c-5419-4163-b387-496237733d8b = { name = "AtomicAndPhysicalConstants", path = "A/AtomicAndPhysicalConstants" }
