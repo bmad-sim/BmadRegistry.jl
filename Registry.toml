@@ -1,0 +1,5 @@
+name = "BmadRegistry"
+uuid = "70be63cb-3cab-46f8-a55e-60b91c1fe7ca"
+repo = "https://github.com/bmad-sim/BmadRegistry.jl"
+
+[packages]
